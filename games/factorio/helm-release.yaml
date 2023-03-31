@@ -21,8 +21,8 @@ spec:
 
     service:
       type: NodePort
-      port: 34197
-      nodePort: 30101
+      port: 30101 # dummy, the real port is 34197 due to host mode container
+      nodePort: 30101 # dummy, the real port is 34197 due to host mode container
 
     factorioServer:
       save_name: kubesave
