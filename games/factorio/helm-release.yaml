@@ -21,8 +21,8 @@ spec:
 
     service:
       type: NodePort
-      port: 31234
-      nodePort: 31234
+      port: 34197
+      nodePort: 34197
 
     factorioServer:
       save_name: kubesave
@@ -64,6 +64,7 @@ spec:
         - textplates
         - combat-mechanics-overhaul
         - RecipeBook
+        - solar-calc
         # QOL
         - even-distribution
         - AutoTrash
