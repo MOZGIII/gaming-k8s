@@ -115,7 +115,7 @@ spec:
           frequency: 1
           size: 1
           richness: 3
-        copper-ore":
+        copper-ore:
           frequency: 1
           size: 1
           richness: 3
