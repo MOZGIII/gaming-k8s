@@ -22,7 +22,7 @@ spec:
     service:
       type: NodePort
       port: 34197
-      nodePort: 34197
+      nodePort: 30101
 
     factorioServer:
       save_name: kubesave
