@@ -69,7 +69,7 @@ spec:
         - AutoTrash
         - LogisticRequestManager
         - BottleneckLite
-        # - Squeak Through
+        - Squeak Through
         - LogisticTrainNetwork
         # spaceX
         - alien-biomes
@@ -91,14 +91,7 @@ spec:
         - jetpack
         - space-exploration-postprocess
         - space-exploration
-      # unofficial section is meant to just allow you to download and place folders into the mods folder.
-      # we will not check version compatibility automatically with these downloads.
-      # you can encounter an error if the file names dont match what the mod is expecting for example
-      #Error Util.cpp:83: Failed to load mod "Squeak-Through": Filename of mod
-      # /factorio/mods/Squeak-Through.zip doesn't match the expected Squeak Through_1.8.2.zip (case sensitive!)
-      unofficial:
-        - url: "https://github.com/Suprcheese/Squeak-Through/archive/refs/tags/1.8.2.zip"
-          name: "Squeak Through_1.8.2.zip"
+      unofficial: []
 
     map_settings:
       pollution:
