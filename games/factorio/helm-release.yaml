@@ -63,6 +63,7 @@ spec:
         - equipment-gantry
         - textplates
         - combat-mechanics-overhaul
+        - flib
         - RecipeBook
         - solar-calc
         # QOL
