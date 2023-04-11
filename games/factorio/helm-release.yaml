@@ -73,6 +73,8 @@ spec:
         - BottleneckLite
         - Squeak Through
         - LogisticTrainNetwork
+        - manual-inventory-sort
+        - factoryplanner
         # spaceX
         - alien-biomes
         - alien-biomes-hr-terrain
