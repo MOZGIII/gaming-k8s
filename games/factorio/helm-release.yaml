@@ -76,6 +76,7 @@ spec:
         - LogisticTrainNetwork
         - manual-inventory-sort
         - factoryplanner
+        - Flare Stack
         # spaceX
         - alien-biomes
         - alien-biomes-hr-terrain
