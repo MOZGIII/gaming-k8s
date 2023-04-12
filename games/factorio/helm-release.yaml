@@ -86,6 +86,12 @@ spec:
         - TaskList
         - Long_Range_Delivery_Drones
         - themightygugi_longreach
+        - FactorySearch
+        - recursive-blueprints
+        - QueueToFrontNG
+        - BlueprintTools
+        - belttracer
+        - GhostOnWater
         # spaceX
         - alien-biomes
         - alien-biomes-hr-terrain
