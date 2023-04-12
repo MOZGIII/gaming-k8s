@@ -92,6 +92,7 @@ spec:
         - BlueprintTools
         - belttracer
         - GhostOnWater
+        - WideChests
         # spaceX
         - alien-biomes
         - alien-biomes-hr-terrain
