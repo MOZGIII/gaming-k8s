@@ -93,6 +93,7 @@ spec:
         - belttracer
         - GhostOnWater
         - WideChests
+        - BigLight
         # spaceX
         - alien-biomes
         - alien-biomes-hr-terrain
