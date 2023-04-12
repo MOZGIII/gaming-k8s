@@ -77,6 +77,15 @@ spec:
         - manual-inventory-sort
         - factoryplanner
         - Flare Stack
+        - VoidChestPlus
+        - Fluid-level-indicator
+        - Waterfill_Fork
+        - IntermodalContainers
+        - RateCalculator
+        - beautiful_bridge_railway_Cargoships
+        - TaskList
+        - Long_Range_Delivery_Drones
+        - themightygugi_longreach
         # spaceX
         - alien-biomes
         - alien-biomes-hr-terrain
