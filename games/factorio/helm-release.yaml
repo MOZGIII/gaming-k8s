@@ -87,7 +87,7 @@ spec:
         - Long_Range_Delivery_Drones
         - themightygugi_longreach
         - FactorySearch
-        - recursive-blueprints
+        - rec-blue-plus
         - QueueToFrontNG
         - BlueprintTools
         - belttracer
